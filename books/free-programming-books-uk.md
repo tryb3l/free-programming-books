@@ -30,6 +30,7 @@
 ### JavaScript
 
 * [Розуміння ECMAScript 6](http://understandinges6.denysdovhan.com) - Денис Довгань (LambdaBooks)
+* [Сучасний підручник з JavaScript](https://uk.javascript.info/) - Ілля Кантор
 
 
 #### React
